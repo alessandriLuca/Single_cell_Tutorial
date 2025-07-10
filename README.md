@@ -91,7 +91,7 @@ This will pull the Docker image from DockerHub, convert it to a Singularity `.si
 
 Please cite the original dataset source if you use this material for publication or presentations:
 
-> Kotliarov et al., Nature Immunology (2024). [PMID: 38307867](https://pubmed.ncbi.nlm.nih.gov/38307867/)
+> Arigoni et al. [PMID: 38307867](https://pubmed.ncbi.nlm.nih.gov/38307867/)
 
 ## License
 
