@@ -78,6 +78,7 @@ script.cmd
 ```
 
 This will start a Docker container and launch Jupyter Lab at [http://localhost:8888](http://localhost:8888). The `sharedFolder` inside the container maps to the repository folder.
+Use the password biohack123
 
 ### Option 2: Singularity
 
